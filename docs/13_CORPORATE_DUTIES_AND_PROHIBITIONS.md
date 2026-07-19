@@ -524,6 +524,8 @@ It does not replace those rights.
 
 It identifies the institutional conduct required to respect them and the practices most likely to violate them.
 
+Where this document and an enumerated-right document appear to differ, the enumerated-right document governs the definition, scope, and duty specific to that right. This document governs cross-cutting institutional duties and the interaction of multiple rights. It must not be used to narrow, replace, or override an enumerated right.
+
 ---
 
 ## Universal Layer and Source-Bound Positions
