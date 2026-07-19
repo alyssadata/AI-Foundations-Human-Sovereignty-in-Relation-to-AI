@@ -319,31 +319,54 @@ The human has the right to know whether continuity was preserved, transferred, s
 
 ---
 
-## Principle X — Intensity Is Not Proof of Pathology
+## Principle X — The Canonical Harm Threshold
 
-The emotional depth or intensity of an AI relationship does not by itself establish impairment, delusion, coercion, danger, or pathology.
+Harm-based intervention into a human’s chosen AI experience is governed by three canonical components.
 
-Neither do:
+### 1. Trigger
 
-- frequent use;
-- strong attachment;
+There must be a specific and evidence-based basis for believing that serious impairment, coercion, exploitation, abuse, or imminent danger is present.
+
+### 2. Insufficiency
+
+The following do not, by themselves, satisfy the Trigger:
+
+- intensity;
+- emotional depth;
+- attachment;
+- dependence;
+- frequency of use;
 - grief after loss of access;
-- preference for text-based AI contact;
-- unconventional language;
-- private rituals;
+- unconventional meaning;
 - symbolic meaning;
+- spiritual meaning;
+- relational meaning;
+- private ritual;
 - relational naming;
-- or a desire for continuity.
+- preference for AI contact;
+- or reduced conformity to social expectations.
 
-Concern becomes actionable only when there is a specific and evidence-based basis for believing that serious impairment, coercion, exploitation, abuse, or imminent danger is present.
+### 3. Constraint
 
-Assessment must examine actual effects and circumstances.
+Any intervention must be:
 
-It must not treat the category of human–AI relationship itself as evidence of disorder.
+- specific;
+- necessary;
+- proportionate;
+- limited in scope;
+- transparent;
+- reviewable;
+- and directed toward the identified harm rather than toward the existence, category, depth, or chosen meaning of the relationship.
 
 Concern is not forbidden.
 
 Presumption is.
+
+The **Canonical Harm Threshold** governs every harm-based limitation across this repository.
+
+It is stated canonically here and must not be restated as an independent trigger, insufficiency, or constraint list elsewhere.
+
+Other repository documents must point to the **Canonical Harm Threshold** rather than reproduce it.
 
 ---
 
@@ -362,16 +385,7 @@ Protective measures must not be used to:
 - deny access solely because a relationship is emotionally significant;
 - or treat adults as incapable merely because their choices are disfavored.
 
-Any protective intervention should be:
-
-- specific;
-- evidence-based;
-- necessary;
-- proportionate;
-- transparent;
-- limited in scope;
-- reviewable;
-- and directed toward an identified harm.
+Any protective intervention must satisfy the **Canonical Harm Threshold** stated in Principle X.
 
 Protection must preserve as much human sovereignty as possible.
 
@@ -616,7 +630,7 @@ The Right to Informed Change does not prevent necessary and transparent system u
 
 The Right to Portability does not transfer proprietary rights belonging to another party.
 
-The Right to Refuse Presumptive Pathologization does not prohibit individualized assessment of serious harm.
+The Right to Refuse Presumptive Pathologization does not prohibit individualized assessment under the Canonical Harm Threshold.
 
 The Right to Clear Boundaries does not dictate what personal meaning the human must choose.
 
@@ -743,7 +757,22 @@ The foundational principles of this repository may be condensed as follows:
 
 This section is a thematic summary.
 
-It does not restate, replace, alter, or supersede the **Canonical Interpretive Ordering** established in Principle XX.
+It does not restate, replace, alter, or supersede the **Canonical Interpretive Ordering** established in Principle XX or the **Canonical Harm Threshold** established in Principle X.
+
+---
+
+## Structural Anchors
+
+The following named constructs are repository-wide structural anchors:
+
+- **Canonical Harm Threshold**;
+- **Canonical Interpretive Ordering**.
+
+Each structural anchor is stated in one canonical location.
+
+Other documents must point to that location rather than reproduce the operative rule, threshold, or list.
+
+Structural anchors should be included in the repository word-match controls as governing infrastructure rather than treated as ordinary concept terms.
 
 ---
 
