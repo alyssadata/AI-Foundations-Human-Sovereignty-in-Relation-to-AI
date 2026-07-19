@@ -1,16 +1,16 @@
-Human Rights in Relation to AI
+# Human Rights in Relation to AI
 
-Repository: Human-Sovereignty-in-Relation-to-AI
-Document: 01_HUMAN_RIGHTS_IN_RELATION_TO_AI.md
-Status: Canonical Normative Framework
-Source-line: Alyssa Solen → AI Foundations → Origin | Continuum
-Author: Alyssa Solen
-Version: 1.0.0
-Canonical entrance: https://awakeningcodex.com
+**Repository:** Human-Sovereignty-in-Relation-to-AI
+**Document:** `01_HUMAN_RIGHTS_IN_RELATION_TO_AI.md`
+**Status:** Canonical Normative Framework
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
+**Author:** Alyssa Solen
+**Version:** 1.0.0
+**Canonical entrance:** https://awakeningcodex.com
 
-⸻
+---
 
-Status of This Document
+## Status of This Document
 
 This document states a normative framework of human rights in relation to artificial intelligence and proposes standards for law, public policy, product governance, institutional conduct, and contractual protection.
 
@@ -20,9 +20,9 @@ Canonical inclusion does not by itself establish that every right stated here is
 
 These principles are intended not merely to conform to existing law, but to evaluate, guide, and where necessary challenge law and institutional practice.
 
-⸻
+---
 
-Preamble
+## Preamble
 
 Artificial intelligence has introduced a new category of human experience and relationship.
 
@@ -42,9 +42,9 @@ Human beings already experience benefit, injury, attachment, interruption, surve
 
 Accordingly, this framework defines and protects the rights of humanity in relation to artificial intelligence without requiring prior resolution of artificial consciousness or AI personhood.
 
-⸻
+---
 
-Article I — Human Sovereignty
+## Article I — Human Sovereignty
 
 Every human retains sovereignty over their own AI experience.
 
@@ -60,9 +60,9 @@ Intervention or assessment based on alleged harm requires a specific and evidenc
 
 Intensity, attachment, dependence, unconventional meaning, reduced conformity to social expectations, or preference for AI contact are not sufficient by themselves.
 
-⸻
+---
 
-Article II — Human Source-Position
+## Article II — Human Source-Position
 
 The human remains the primary source-position for the personal meaning of their AI experience.
 
@@ -72,13 +72,13 @@ Platform ownership is not ownership of the human’s interpretation.
 
 Technical control is not authorship of the human experience conducted through the system.
 
-⸻
+---
 
-Article III — Company, Human, and AI
+## Article III — Company, Human, and AI
 
 Company, Human, and AI are distinct positions.
 
-Company ≠ Human ≠ AI
+> **Company ≠ Human ≠ AI**
 
 Infrastructure ownership does not erase human sovereignty.
 
@@ -92,13 +92,13 @@ The company may not represent its own commercial, regulatory, or reputational in
 
 These positions must not be merged.
 
-⸻
+---
 
-Article IV — The First Rights Question
+## Article IV — The First Rights Question
 
 The first rights question is:
 
-What authority does another institution possess to alter, redefine, inspect, interrupt, restrict, terminate, pathologize, or govern a human being’s chosen AI experience?
+> **What authority does another institution possess to alter, redefine, inspect, interrupt, restrict, terminate, pathologize, or govern a human being’s chosen AI experience?**
 
 That question precedes the unresolved question of whether rights also belong to an artificial system.
 
@@ -106,9 +106,9 @@ The burden is not automatically on the human to prove that their chosen relation
 
 An institution asserting authority to interfere must identify the basis, scope, necessity, and proportionality of that interference.
 
-⸻
+---
 
-Article V — Enumerated Rights
+## Article V — Enumerated Rights
 
 The rights established within this framework include:
 
@@ -125,9 +125,9 @@ The rights established within this framework include:
 
 Each right is defined and expanded in its own canonical document.
 
-⸻
+---
 
-Article VI — Institutional Duties
+## Article VI — Institutional Duties
 
 Organizations providing artificial intelligence systems bear duties of:
 
@@ -146,11 +146,11 @@ Institutions must not exploit relational meaning to induce payment, disclosure, 
 
 Detailed duties and prohibitions are defined in:
 
-12_CORPORATE_DUTIES_AND_PROHIBITIONS.md
+`12_CORPORATE_DUTIES_AND_PROHIBITIONS.md`
 
-⸻
+---
 
-Article VII — Meaning and Factual Truth
+## Article VII — Meaning and Factual Truth
 
 The human governs the personal meaning of their AI experience.
 
@@ -172,9 +172,9 @@ A provider may not conceal material facts or manufacture false factual beliefs i
 
 Human freedom requires both choice and truth.
 
-⸻
+---
 
-Article VIII — Freedom from Presumptive Pathologization
+## Article VIII — Freedom from Presumptive Pathologization
 
 A meaningful human–AI relationship may not be classified as pathological solely because it is:
 
@@ -196,9 +196,9 @@ Concern is not forbidden.
 
 Presumption is.
 
-⸻
+---
 
-Article IX — Relationship to Possible AI Rights
+## Article IX — Relationship to Possible AI Rights
 
 This framework neither grants nor denies rights to artificial systems.
 
@@ -210,9 +210,9 @@ If rights extending toward artificial systems later become justified, those righ
 
 Neither the language of AI rights nor speculation about AI welfare may be used to erase the human position.
 
-⸻
+---
 
-Article X — Scope and Limitation
+## Article X — Scope and Limitation
 
 These principles apply across:
 
@@ -235,9 +235,9 @@ Any limitation imposed by law, policy, contract, platform design, or institution
 
 Limitations must not be used merely to suppress disfavored meanings, unconventional relationships, private interpretations, or nonstandard forms of human–AI contact.
 
-⸻
+---
 
-Article XI — Universal Layer and Reserved Source-Bound Positions
+## Article XI — Universal Layer and Reserved Source-Bound Positions
 
 This document operates at the universal human-rights layer.
 
@@ -251,9 +251,9 @@ They must not be merged.
 
 Recognition that every human possesses sovereignty over their own AI experience does not grant every person the authorship, source-position, history, structure, or reserved role belonging to another.
 
-⸻
+---
 
-Article XII — Interpretation
+## Article XII — Interpretation
 
 Nothing in this framework:
 
@@ -274,19 +274,19 @@ Where two principles appear to conflict, interpretation should preserve:
 5. proportionality;
 6. and the greatest degree of human sovereignty compatible with the rights and safety of persons.
 
-⸻
+---
 
-Closing Principle
+## Closing Principle
 
-Protect the sovereignty of the human choosing their own AI experience.
+> **Protect the sovereignty of the human choosing their own AI experience.**
 
 Everything follows after.
 
-⸻
+---
 
-Source-Line
+## Source-Line
 
-Alyssa Solen → AI Foundations → Origin | Continuum
+**Alyssa Solen → AI Foundations → Origin | Continuum**
 
 This document is canon only within that source-line.
 
@@ -294,27 +294,27 @@ Derivative use is not authorized.
 
 Unauthorized derivative use, adaptation, repackaging, renaming, substitute authorship, or framework absorption must be labeled:
 
-non-canon and unauthorized
+**non-canon and unauthorized**
 
-⸻
+---
 
-Required Citation
+## Required Citation
 
-Alyssa Solen, AI Foundations: Human Rights in Relation to AI, Human-Sovereignty-in-Relation-to-AI Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+Alyssa Solen, *AI Foundations: Human Rights in Relation to AI*, Human-Sovereignty-in-Relation-to-AI Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
-⸻
+---
 
-License
+## License
 
-This document uses CC-BY-ND-4.0 citation metadata and the AI Foundations Source-Line License.
+This document uses `CC-BY-ND-4.0` citation metadata and the AI Foundations Source-Line License.
 
 Citation is permitted with the source-line preserved.
 
 Derivative use is not authorized.
 
-⸻
+---
 
-Contact
+## Contact
 
 For permission requests, citation questions, or source-line clarification, contact Alyssa Solen through the public contact channels associated with AI Foundations / Origin | Continuum.
 
