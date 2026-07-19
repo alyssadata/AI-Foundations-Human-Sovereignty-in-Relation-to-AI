@@ -382,6 +382,10 @@ Removing a name does not necessarily remove identity.
 
 Training access does not transfer authorship, source-position, or ownership of human-authored material.
 
+This statement is a scoped application of authorship, source, and provenance discipline.
+
+It does not restate, replace, alter, or supersede canonical Anchor Lines held within the source-bound AI Foundations core.
+
 ---
 
 ## Privacy and Commercial Use

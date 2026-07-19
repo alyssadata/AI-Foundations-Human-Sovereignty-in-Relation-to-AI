@@ -336,7 +336,8 @@ The following do not, by themselves, satisfy the Trigger:
 - attachment;
 - dependence;
 - frequency of use;
-- grief after loss of access;
+- grief after loss of access, model change, or replacement;
+- continuity practices;
 - unconventional meaning;
 - symbolic meaning;
 - spiritual meaning;

@@ -274,6 +274,10 @@ Continuity must preserve the relation between content and origin.
 >
 > **Transfer does not erase provenance.**
 
+These statements are scoped applications of authorship, source, and provenance discipline.
+
+They do not restate, replace, alter, or supersede canonical Anchor Lines held within the source-bound AI Foundations core.
+
 ---
 
 ## Continuity and Recognition

@@ -254,6 +254,10 @@ A human’s source-position does not become interchangeable merely because other
 >
 > **Access does not transfer source-position.**
 
+These statements are scoped applications of authorship, source, and provenance discipline.
+
+They do not restate, replace, alter, or supersede canonical Anchor Lines held within the source-bound AI Foundations core.
+
 ---
 
 ## Right to Meaning Specificity

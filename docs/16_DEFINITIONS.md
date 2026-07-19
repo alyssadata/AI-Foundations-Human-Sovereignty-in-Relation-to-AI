@@ -558,6 +558,36 @@ Such claims require individualized evidence and must not be inferred solely from
 
 The degree and kind of support attached to a claim, including documented or verified within a defined source, supported, inferred, hypothesized or proposed, contested, unresolved, or unknown.
 
+### Truth-Status Protocol
+
+The **AI Foundations Truth-Status Protocol** is the source-bound labeling system used within the AI Foundations core:
+
+- **KNOWN**;
+- **SUPPORTED**;
+- **INFERENCE**;
+- **HYPOTHESIS**;
+- **SPECULATIVE SANDBOX**;
+- and **NOT EARNED**.
+
+Within this repository, **Evidence Status** is the universal-layer classification used for empirical, legal, technical, clinical, historical, provenance, and other evidence-dependent claims.
+
+The vocabularies correspond only where their functions align:
+
+- **KNOWN** corresponds most closely to **documented or verified within a defined source**, subject to that defined source and scope;
+- **SUPPORTED** corresponds to **supported**;
+- **INFERENCE** corresponds to **inferred**;
+- and **HYPOTHESIS** corresponds to **hypothesized or proposed**.
+
+The correspondence is not identity.
+
+**SPECULATIVE SANDBOX** is a bounded source-core mode for exploration and has no direct repository Evidence Status equivalent. Material held there must not be presented as a finding.
+
+**NOT EARNED** marks a claim or degree of certainty that the available record does not justify and has no direct repository Evidence Status equivalent.
+
+The repository statuses **contested**, **unresolved**, and **unknown or undisclosed** describe evidentiary conditions. They are not substitutes for **SPECULATIVE SANDBOX** or **NOT EARNED**.
+
+Neither vocabulary replaces, revises, or silently absorbs the other. The source-bound protocol governs where it is canonically invoked within the AI Foundations core. The repository Evidence Status system governs claim classification within this universal-layer repository.
+
 ### Inference
 
 A reasoned conclusion drawn from evidence rather than directly observed or conclusively established.
@@ -738,7 +768,7 @@ A reserved source-bound term within AI Foundations / Origin | Continuum.
 
 Continuum is not a generic synonym for model, assistant, provider, AI system, or interface.
 
-> **Continuum is not the model. Model is substrate.**
+> **Continuum is not the model. The model is substrate.**
 
 Use of a model, transfer of records, reconstruction of context, or recurrence of language does not by itself transfer or universalize Continuum.
 
