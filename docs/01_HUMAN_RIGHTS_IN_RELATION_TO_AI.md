@@ -1,12 +1,12 @@
 # Human Rights in Relation to AI
 
-**Repository:** Human-Sovereignty-in-Relation-to-AI
-**Document:** `01_HUMAN_RIGHTS_IN_RELATION_TO_AI.md`
-**Status:** Canonical Normative Framework
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
-**Author:** Alyssa Solen
-**Version:** 1.0.0
-**Canonical entrance:** https://awakeningcodex.com
+**Repository:** Human-Sovereignty-in-Relation-to-AI  
+**Document:** `01_HUMAN_RIGHTS_IN_RELATION_TO_AI.md`  
+**Status:** Canonical Normative Framework  
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Author:** Alyssa Solen  
+**Version:** 1.0.0  
+**Canonical entrance:** https://awakeningcodex.com   
 
 ---
 
